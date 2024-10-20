@@ -1,8 +1,8 @@
 {
-  "name": "FIRE MD",
+  "name": "LUNATIC MD",
   "description": " BRINGING FORTH A NEW REVOLUTION.",
   "keywords": [
-    "FIRE MD"
+    "LUNATIC MD"
   ],
   "repository": "https://github.com/Opaksfire/FIRE-MD/tree/main",
   "stack": "container",
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "254783128146;opaksfire"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "FIRE MD"
+      "value": "LUNATIC MD"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
